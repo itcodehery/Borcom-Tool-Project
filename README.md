@@ -29,4 +29,4 @@ cargo run -- --file your_file.c
 
 ## Contributing
 
-We are in the early stages of development and welcome contributions from those interested in compilers, static analysis, and systems safety.
+I am in the early stages of development and I'm open to contributions from those interested in compilers, static analysis, and systems safety.
